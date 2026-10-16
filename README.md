@@ -1,6 +1,6 @@
 # admin-panel
 **DEMO**
-![Image](https://github.com/user-attachments/assets/67bab76b-593c-4556-9d35-45a0bbe9d4de)
+![Image](https://github.com/user-attachments/assets/7b28df2a-7174-4d65-9c49-b649ba2e05fa)
 - [Demo Project](https://admin-panel-xyio.vercel.app/login)
 - Developed by AmirMohammad Ahadi
 - Created - 2026-16-10
